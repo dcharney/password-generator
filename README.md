@@ -1,4 +1,4 @@
-# Challenge 1: Horiseon Refactor
+# Challenge 1: Password Generator
 
 The deployed webpage can be viewed at: https://dcharney.github.io/password-generator/ .
 
