@@ -1,4 +1,6 @@
 # Challenge 1: Password Generator
+A website that can be used to generate a password to meet user criteria.
+
 
 The deployed webpage can be viewed at: https://dcharney.github.io/password-generator/ .
 
