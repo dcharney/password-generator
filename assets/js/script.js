@@ -89,7 +89,7 @@ var selectionMssg = function(criteria) {
 var passwordCreator = function(criteria) {
     let str = "";
     const alphabet = "abcdefghijklmnopqrstuvwxyz";
-    const special = "!\"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~"
+    const special = " !\"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~"
     for (i = 0; i < criteria.numCharacters; i++) {
         //determine character type
         type = criteria.characterTypes[Math.floor(Math.random()*criteria.characterTypes.length)];
